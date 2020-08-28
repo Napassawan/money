@@ -3,7 +3,7 @@
 double a;
 double b;
 double c;
-main()
+int main()
 {
 	printf("Enter product prices : ");
 	scanf("%lf", &a);
